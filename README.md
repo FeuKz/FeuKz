@@ -1,5 +1,5 @@
 - 👀 I’m interested in Front-End Dev
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning  Html, Css and Java Script
 - 🤖 I'm currently working on Guinted, a Bot
 
 <!---
