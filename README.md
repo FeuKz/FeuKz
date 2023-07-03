@@ -1,6 +1,6 @@
-- 👀 I’m interested in Front-End Dev
-- 🌱 I’m currently learning  html, css, js and c#
-- 🤖 I'm currently working on Guinted
+- 👀 I’m interested in discord js
+- 🌱 I’m currently learning js
+- 🤖 I'm currently working on guint
 
 <!---
 FeuKz/FeuKz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
